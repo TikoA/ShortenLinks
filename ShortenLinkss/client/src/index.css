@@ -1,0 +1,16 @@
+@import "~materialize-css/dist/css/materialize.min.css";
+
+input.orange-input {
+    border-bottom: 1px solid #ffffff !important;
+    box-shadow: 0 1px 0 0 #ffffff !important}
+
+input.orange-input + label{
+    color:#fff !important;}
+
+input.orange-input:focus{
+    border-bottom: 1px solid #ff6e00 !important;
+    box-shadow: 0 1px 0 0 #ff6e00 !important}
+
+input.orange-input:focus + label{
+    color:#ff6e00 !important;}
+

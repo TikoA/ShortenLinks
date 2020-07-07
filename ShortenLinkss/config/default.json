@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "secretj": "Tiko Arshakyan",
+  "baseUrl": "http://localhost:5000",
+  "mongoUri": "mongodb+srv://tikos:1234Tiko@cluster0-jcpuc.azure.mongodb.net/app?retryWrites=true&w=majority"
+}
